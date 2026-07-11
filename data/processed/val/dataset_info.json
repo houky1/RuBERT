@@ -1,0 +1,85 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Unnamed: 0": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "dialogue_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "turn": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "role": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "topic": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "intent": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sentiment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "urgency": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "topic_label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "intent_label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "sentiment_label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "urgency_label": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "token_type_ids": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

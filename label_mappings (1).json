@@ -1,0 +1,78 @@
+{
+    "topic": {
+        "label2id": {
+            "account_access": 0,
+            "complaint": 1,
+            "delivery": 2,
+            "payment": 3,
+            "return": 4,
+            "subscription": 5,
+            "technical_issue": 6
+        },
+        "id2label": {
+            "0": "account_access",
+            "1": "complaint",
+            "2": "delivery",
+            "3": "payment",
+            "4": "return",
+            "5": "subscription",
+            "6": "technical_issue"
+        }
+    },
+    "intent": {
+        "label2id": {
+            "account_access_issue": 0,
+            "acknowledgment": 1,
+            "ask_timing": 2,
+            "complaint_issue": 3,
+            "delivery_issue": 4,
+            "gratitude": 5,
+            "payment_issue": 6,
+            "response": 7,
+            "return_issue": 8,
+            "subscription_issue": 9,
+            "technical_issue_issue": 10
+        },
+        "id2label": {
+            "0": "account_access_issue",
+            "1": "acknowledgment",
+            "2": "ask_timing",
+            "3": "complaint_issue",
+            "4": "delivery_issue",
+            "5": "gratitude",
+            "6": "payment_issue",
+            "7": "response",
+            "8": "return_issue",
+            "9": "subscription_issue",
+            "10": "technical_issue_issue"
+        }
+    },
+    "sentiment": {
+        "label2id": {
+            "negative": 0,
+            "neutral": 1,
+            "positive": 2
+        },
+        "id2label": {
+            "0": "negative",
+            "1": "neutral",
+            "2": "positive"
+        }
+    },
+    "urgency": {
+        "label2id": {
+            "1": 0,
+            "2": 1,
+            "3": 2,
+            "4": 3,
+            "5": 4
+        },
+        "id2label": {
+            "0": "1",
+            "1": "2",
+            "2": "3",
+            "3": "4",
+            "4": "5"
+        }
+    }
+}
